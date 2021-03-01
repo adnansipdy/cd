@@ -1,0 +1,104 @@
+body{
+
+  text-align: center;
+  margin-top: 1rem;
+  font-family: 'Playfair Display', serif;
+  margin-top: 0;
+}
+
+p{
+  position: relative;
+  bottom: 14rem;
+  right:13rem;
+}
+
+
+
+.col{
+      padding-top: 4rem;
+    background-color:#a3d2ca  ;
+}
+.myphoto{
+
+  width: 25rem;
+  margin-bottom: 0;
+  position: relative;
+  left:20rem;
+  bottom: 1rem;
+  
+}
+.myname{
+  font-family: 'Fraunces', serif;
+  text-decoration: underline;
+  text-align-last: left;
+  position:relative;
+  bottom: 15rem;
+  left:10rem;
+
+
+}
+
+.text{
+  position: relative;
+  right:14rem;
+  bottom: 15rem;
+
+
+}
+.ihate{
+  position: relative;
+
+  bottom: 12rem;
+  text-align:left;
+  left:10rem;
+
+}
+
+.spiderman{
+
+width:23rem;
+position: relative;
+
+
+}
+.hi{
+  position: relative;
+  width: 10rem;
+  right:29rem;
+  bottom: 10rem;
+}
+.hobbies{
+text-decoration: overline underline;
+
+
+
+}
+.cube{
+  position: relative;
+  margin-top: 12rem;
+
+
+  text-decoration: underline;
+}
+.cubing{
+  position: relative;
+
+bottom: 12rem;
+text-align:left;
+left:23rem;
+}
+.cubeimg{
+width: 15rem;
+position: relative;
+right:29rem;
+}
+.badmation{
+  text-decoration: underline;
+}
+.badmitionimg{
+  width:15rem;
+  position: relative;
+  right:29rem;
+
+}
+/* for id s space 0 */
